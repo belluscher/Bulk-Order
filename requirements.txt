@@ -1,3 +1,4 @@
+pywin32
 ﻿openpyxl
 altair==5.4.1
 annotated-types==0.7.0
